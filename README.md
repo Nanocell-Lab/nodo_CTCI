@@ -12,3 +12,8 @@ Nodo de investigadores para la adopción de la Ciencia Abierta
 Mediante el módulo de datos Abiertos del Instituto Nacional de Propiedad Industrial de Chile es posible acceder a datos de marcas y patentes. Se extraen datos de solicitud y registros de patentes para contraste y obtención de indicadores para el trabajo de mesas.
 - [Patentes_Solicitadas](/data/INAPI/Applications): Solicitudes presentadas desde el año 2009 hasta la actualidad, contiene patentes, modelos de utilidad y diseños industriales presentados en Chile en este periodo.
 - [Patentes_Registradas](/data/INAPI/Registers): Patentes registradas desde el año 2009 hasta la actualidad, contiene registros de patentes, modelos de utilidad y diseños industriales registrados en chile durante este periodo.
+### 4. INE
+El Instituto Nacional de Estadística mediante su plataforma web REDATAM, nos presenta los resultados obtenidos de los ultimos censos de población y vivienda, pudiendo caracterizar los datos a extraer en frecuencias, listados y cruces, además de obtener estadisticas básicas e indicadores de población.
+- [Doctorados](/data/): Datos obtenidos por cruce de las variables de personas residencia habitual vs nivel del curso más alto aprobado (filtro = Doctorado).
+- [Promedio_Escolaridad_por_Edades](/data/): Datos obtenidos por cruce de variables de personas Edades quinquenales vs promedio de años de escolaridad, con segmentación de área (rural/urbano) y por provincias de las regiones de la macrozona centro-sur.
+- 
