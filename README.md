@@ -1,5 +1,6 @@
 # nodo_CTCI
-Nodo de investigadores para la adopción de la Ciencia Abierta
+
+Nodo CTCI Centro Sur, un Nodo estratégico para el desarrollo de la Macrozona Centro Sur del país. Iniciativa liderada por la Universidad de Concepción, en colaboración con las universidades de O’Higgins, Católica del Maule, Talca, Católica de la Santísima Concepción y Biobío, que busca vincular al eCTCI con las fortalezas y necesidades de la sociedad, enmarcada en la Macrozona Centro-Sur del país, más específicamente las regiones de Libertador Bernardo O’Higgins, Maule, Ñuble y Biobío.
 
 
 ## Fuentes de datos
