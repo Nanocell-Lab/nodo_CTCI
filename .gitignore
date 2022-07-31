@@ -153,4 +153,7 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+#For Mac Users
+.DS_Store
+
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
